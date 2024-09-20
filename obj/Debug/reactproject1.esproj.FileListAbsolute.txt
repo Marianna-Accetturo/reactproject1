@@ -1,0 +1,3 @@
+C:\Users\oryra\OneDrive\Desktop\Fondamenti web\Progetto\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\oryra\OneDrive\Desktop\Fondamenti web\Progetto\progweb\progweb\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\oryra\OneDrive\Desktop\Fondamenti web\progetto definitivo\147\147\progweb\progweb\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache

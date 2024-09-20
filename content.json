@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "title": "Concerti",
+      "cardContent": [
+        {
+          "artwork": "https://sfondo.info/i/original/1/7/a/58377.jpg",
+          "descrizione": "concerto twenty one pilots"
+        },
+        {
+          "artwork": "https://sfondo.info/i/original/1/7/a/58377.jpg",
+          "descrizione": "concerto gorillaz"
+        }
+      ]
+    },
+    {
+      "title": "Film",
+      "cardContent": [
+        {
+          "artwork": "https://www.postermania.it/81592-thickbox_default/locandina-the-avengers-marvel-comics-stan-lee-downey-iron-man-thor-cat4.jpg",
+          "descrizione": "film supereroi"
+        }
+      ]
+    }
+  ]
+}
+
